@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 🌸 Magical Bioluminescent Sakura Garden
 
@@ -75,5 +73,3 @@ Happy Valentine's Day! 💖
 ```
 
 ---
-
-```
