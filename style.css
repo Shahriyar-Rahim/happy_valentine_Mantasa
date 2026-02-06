@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    background: #010208;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+}
+
+canvas {
+    display: block;
+}
+
+#msg {
+    position: absolute;
+    width: 100%;
+    top: 10%;
+    text-align: center;
+    color: white;
+    font-family: 'Georgia', serif;
+    font-size: 3.5rem;
+    letter-spacing: 12px;
+    opacity: 0;
+    transition: 6s;
+    text-shadow: 0 0 25px #ffb7c5;
+    pointer-events: none;
+    font-weight: 200;
+    z-index: 10;
+}
